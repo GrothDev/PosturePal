@@ -1,1 +1,5 @@
 # PosturePal
+
+Contributors:
+GrothDev - ?
+Vonyx - ?
